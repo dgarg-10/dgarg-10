@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dillon. I am a Computer Science student at the University of Washington (Seattle). I aim to graduate Spring 2028. I build full-stack web applications and am currently working on these projects and coursework. 
+I'm Dillon. I am a Computer Science student at the University of Washington (Seattle). I aim to graduate Spring 2028. I am currently working on full stack web applications and coursework.
 
 Tech Stack:  Python, TypeScript, Java, React, Flask, PostgreSQL, Git 
 
